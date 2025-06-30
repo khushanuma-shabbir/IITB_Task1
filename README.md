@@ -35,6 +35,6 @@ The webpage introduces the IIT Bombay Campus Ambassador Program. It highlights t
 
 **Khushanuma Shabbir Mansuri**  
 Second-year B.Tech IT student  
-Campus Ambassador, IIT Bombay
+
 
 > Feel free to reach out for feedback or collaboration!
